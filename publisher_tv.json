@@ -1,90 +1,10 @@
 [
-{
-    "publisher_id": "15",
-    "title": "RANG TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/fxsdkrmp\/image\/upload\/h_368,q_100,w_368\/v1581610383\/logo\/rang.png",
-    "desc": "Working Worldwide 17+ Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/anil2gtv\/app\/master\/vootch.json"
-  },
-  {
-    "publisher_id": "9",
-    "title": "AIRTEL TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563567124\/slogo\/atv.png",
-    "desc": "Working Only India 390 Channels",
-    "cat_or_lang": "1",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/anil2gtv\/app\/master\/airtel.json"
-  },
-  {
-    "publisher_id": "11",
-    "title": "Sitara TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1569580355\/slogo\/Sitaratv.png",
-    "desc": "Working Only India 22 Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https://raw.githubusercontent.com/anil2gtv/app/master/hs.json"
-  },
   {
     "publisher_id": "1",
-    "title": "JIO TV",
+    "title": "JUZI TV",
     "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "1",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/anil2gtv\/app\/master\/jio.json"
-  },
-  {
-    "publisher_id": "8",
-    "title": "SONYLIV TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1565767033\/slogo\/sltv.png",
-    "desc": "Working Worldwide 39 Channels",
-    "cat_or_lang": "1",
-    "link_tv": "https:\/\/bitbucket.org\/alex109\/alex101\/raw\/572c989e099ad34c8e4e8b53c48117a4ad5cd95d\/sony.json"
-  },
-  {
-    "publisher_id": "8",
-    "title": "ZEE 5",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1567574446\/slogo\/1.jpg",
-    "desc": "Working WorldWide 94 Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/bitbucket.org\/alex109/alex101\/raw\/974734a9489bb51502c51af2039723172cfdef2e\/zee.json"
-  },
-  {
-    "publisher_id": "12",
-    "title": "Sun TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1572059062\/slogo\/sunnet.jpg",
-    "desc": "Working Worldwide 41 channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/bitbucket.org\/alex109\/alex101\/raw\/352e7261bc57f097e9ad9ec705cd2299e78f017f\/sun.json"
-  },
-  {
-    "publisher_id": "16",
-    "title": "Sunshine TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/fxsdkrmp\/image\/upload\/v1575563733\/images\/sunshinetv_o8erkd.png",
-    "desc": "Working Worldwide 1000+ Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https://bitbucket.org/alex109/alex101/raw/3979fa1f134b76009bb4c2dff472723c7879d37e/sunshine.json"
-  },
-  {
-    "publisher_id": "15",
-    "title": "SADDA TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/fxsdkrmp\/image\/upload\/v1581333187\/logo\/sadda_tv_vq5zmq.png",
-    "desc": "Working Worldwide 93 Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/anil2gtv\/app\/master\/saddatv.json"
-  },
-  {
-    "publisher_id": "9",
-    "title": "INDIA TV (TESTING)",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1565781482\/slogo\/Itv.png",
-    "desc": "Working Worldwide 13 Channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/anil2gtv\/app\/master\/india.json"
-  },
-  {
-    "publisher_id": "5",
-    "title": "MX TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563567145\/slogo\/mxtv.png",
-    "desc": "Working Only India 202 Channels",
-    "cat_or_lang": "1",
-    "link_tv": "https://bitbucket.org/alex109/alex101/raw/3979fa1f134b76009bb4c2dff472723c7879d37e/mxtv.json"
+    "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/juzitv.json"
   }
 ]
