@@ -1,1 +1,21 @@
-[]
+{
+'slider_type':"disable",
+'data':[{
+    "live_tv_id": 430,
+    "tv_name": "Jio Cricket English HD",
+    "priority": "1",
+    "iscatchup": true,
+    "schedule_id": "0",
+    "stream_from": "hls",
+    "stream_label": "HD",
+    "poster_url": "4b6affb18572c900af63c513b783597fd0e902ec11f2d545bfbb6f5520d63611708d84664913bfaf05615a30f8bc9edebae6b183b00afd024fad614a18cb03b1c7b67f0a09816df68d40023248ac4afd",
+    "lan_id": "6",
+    "cat_id": "1",
+    "drm": false,
+    "drm_u": "",
+    "link": "74d27f4716cec3c4f87e74b45598c2b825bc8864790d3385b6121f2fc4e240b53b1cc62ee3dd04eeb216ccedb351bee59d9b4a4dfdc29faa82871a577f563216f86e615e835e148268cea82cb09bf611",
+    "uagen": "plaYtv\/5.9.4 (Linux;Android 6.0) ExoPlayerLib\/2.10.6",
+    "r": "n",
+    "publish": "1"
+  }]
+}
