@@ -30,5 +30,13 @@
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "0",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/voot.json"
+  },
+  {
+    "publisher_id": "1",
+    "title": "Sitara TV",
+    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
+    "desc": "Working Only India 689 channels",
+    "cat_or_lang": "0",
+    "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/sitara.json"
   }
 ]
