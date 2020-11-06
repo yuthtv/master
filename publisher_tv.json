@@ -10,7 +10,7 @@
   {
     "publisher_id": "1",
     "title": "Airwel TV",
-    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604578136/logo/1_3950446502941294602_sy3ndz.webp",
+    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604633263/logo/unnamed_waapbv.webp",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "1",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/Airwel.json"
@@ -26,7 +26,7 @@
   {
     "publisher_id": "1",
     "title": "Voot TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
+    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604578136/logo/1_3950446502941294602_sy3ndz.webp",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "0",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/voot.json"
@@ -34,7 +34,7 @@
   {
     "publisher_id": "1",
     "title": "Sitara TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
+    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604578131/logo/1_3950446502941294595_d5ik05.webp",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "0",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/sitara.json"
@@ -42,7 +42,7 @@
   {
     "publisher_id": "1",
     "title": "LIV TV",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
+    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604578142/logo/1_3950446502941294597_dc2sqe.webp",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "0",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/liv.json"
@@ -50,17 +50,9 @@
   {
     "publisher_id": "1",
     "title": "Ditto Lite",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
+    "thumbnail_url": "https://res.cloudinary.com/fxsdkrmp/image/upload/v1604635950/logo/ditto.png",
     "desc": "Working Only India 689 channels",
     "cat_or_lang": "0",
     "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/ditto.json"
-  },
-  {
-    "publisher_id": "1",
-    "title": "YH",
-    "thumbnail_url": "https:\/\/res.cloudinary.com\/anil2gtv\/image\/upload\/v1563201978\/slogo\/jtv.png",
-    "desc": "Working Only India 689 channels",
-    "cat_or_lang": "0",
-    "link_tv": "https:\/\/raw.githubusercontent.com\/yuthtv\/master\/master\/yh.json"
   }
 ]
